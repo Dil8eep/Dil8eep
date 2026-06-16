@@ -13,11 +13,11 @@
 
 ## 📊 About Me
 
-I am a **passionate Data Science and Machine Learning Student** from India, dedicated to solving real-world problems through data-driven insights and intelligent algorithms. With a strong foundation in Python, statistical analysis, and machine learning, I'm committed to building innovative solutions that leverage AI and deep learning technologies.
+I am a **passionate Data Science, Machine Learning, and Generative AI Student** from India, dedicated to solving real-world problems through data-driven insights, intelligent algorithms, and agentic AI workflows. With a strong foundation in Python, statistical analysis, machine learning, and modern AI systems, I'm committed to building solutions that combine ML, deep learning, RAG, and AI agents.
 
-- 🎓 **Focus Areas:** Machine Learning, Deep Learning, Natural Language Processing, Time Series Analysis, and Generative AI
-- 💡 **Philosophy:** Transforming raw data into actionable insights through rigorous analysis and creative problem-solving
-- 🚀 **Goal:** To become a proficient Data Scientist/ML Engineer contributing to impactful projects
+- 🎓 **Focus Areas:** Machine Learning, Deep Learning, Natural Language Processing, Time Series Analysis, Generative AI, RAG, and Agentic AI
+- 💡 **Philosophy:** Transforming raw data into actionable insights and intelligent workflows through rigorous analysis and creative problem-solving
+- 🚀 **Goal:** To become a proficient Data Scientist/ML Engineer building impactful AI, automation, and agentic applications
 
 ---
 
@@ -39,6 +39,15 @@ I am a **passionate Data Science and Machine Learning Student** from India, dedi
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6B00?style=flat&logo=opencv&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
+### **Generative AI, RAG & Agentic Tools**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0B3D2E?style=flat&logo=graphql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A5ACD?style=flat)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-Embeddings%20%26%20Search-008080?style=flat)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Tool%20Calling%20%26%20Workflows-FF6F61?style=flat)
+![Callingo](https://img.shields.io/badge/Callingo-Agentic%20Tool-2E86AB?style=flat)
+![WebRTC](https://img.shields.io/badge/WebRTC-Real--time%20AI-333333?style=flat&logo=webrtc&logoColor=white)
+
 ### **Tools & Platforms**
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
@@ -48,26 +57,58 @@ I am a **passionate Data Science and Machine Learning Student** from India, dedi
 
 ## ⭐ Featured Projects
 
-### 🚗 [Road Detection using U-Net](https://github.com/Dil8eep)
+### 🤖 [Multi Agent Orchestration](https://github.com/Dil8eep/Multi_Agent_Orchestration)
+**Agentic AI | LangChain Ecosystem | Multi-Agent Workflows | Tool Calling**
+- Built agentic workflows that coordinate multiple AI agents for task planning, reasoning, and execution
+- Explored LangChain ecosystem patterns for tools, memory, chains, routing, and orchestration
+- Designed modular agent components that can be extended for automation and decision-support use cases
+- Applications: Workflow automation, AI assistants, intelligent task routing, and agent collaboration
+
+### 📚 [AdvanceRAG](https://github.com/Dil8eep/AdvanceRAG)
+**Retrieval-Augmented Generation | Embeddings | Vector Search | LLM Applications**
+- Developed RAG pipelines for grounding LLM responses with external knowledge sources
+- Worked with document loading, chunking, embeddings, retrieval, and response generation workflows
+- Focused on improving answer relevance through context retrieval and structured prompting
+- Applications: Knowledge assistants, document Q&A, enterprise search, and AI research tools
+
+### 🎙️ [STS Model using WebRTC](https://github.com/Dil8eep/STS-model-using-WEBRTC)
+**Speech-to-Speech AI | WebRTC | Real-time Communication | Agentic Interfaces**
+- Explored real-time AI communication workflows using WebRTC-based streaming concepts
+- Connected speech interaction patterns with intelligent assistant and agent interfaces
+- Applications: Voice agents, AI calling systems, real-time support bots, and conversational automation
+
+### 💬 [Customer Bot](https://github.com/Dil8eep/Customer_Bot)
+**Conversational AI | Customer Support | Automation | Agentic Assistants**
+- Built chatbot workflows for customer interaction and automated query handling
+- Focused on practical assistant behavior, response flow, and user support automation
+- Applications: Customer service automation, support assistants, and business chatbots
+
+### 🧠 [Mental Health Bot](https://github.com/Dil8eep/Mental_Health_Bot)
+**NLP | Conversational AI | Support Bot | Human-Centered AI**
+- Created a conversational assistant concept focused on mental health support interactions
+- Explored safe response design, empathetic conversation flow, and NLP-driven assistant behavior
+- Applications: Wellness chatbots, guided support systems, and AI assistant prototypes
+
+### 🚗 [Road Detection using U-Net](https://github.com/Dil8eep/Road_Detection_Using_U-Net)
 **Deep Learning | Semantic Segmentation | Computer Vision**
 - Advanced semantic segmentation model using U-Net architecture for road detection
 - Real-time road extraction from satellite and aerial imagery
 - Implemented with TensorFlow/Keras with high accuracy on diverse datasets
 - Applications: Autonomous driving, infrastructure monitoring, urban planning
 
-### 🔴 [Violence Detection using YOLO](https://github.com/Dil8eep)
+### 🔴 [Violence Detection using YOLO](https://github.com/Dil8eep/Violence_Detection_Using_CV)
 **Deep Learning | Object Detection | Video Analysis | Real-time Processing**
 - State-of-the-art YOLOv8 model for detecting violent activities in video streams
 - Real-time violence detection with bounding box visualization and alerts
 - Multi-frame temporal analysis for robust detection
 - Applications: Surveillance systems, security monitoring, public safety
 
-### 🩺 [Diabetes Prediction and EDA](https://github.com/Dil8eep)
+### 🩺 [Diabetes Prediction and EDA](https://github.com/Dil8eep/Diabetes_Prediction_Using_ML)
 **Machine Learning | Medical Data Analysis | Exploratory Data Analysis**
 - Comprehensive exploratory data analysis on diabetes dataset
 - Multiple ML models comparison (Logistic Regression, Random Forest, SVM, XGBoost)
 - Feature engineering and data preprocessing techniques
-- Predictive model achieving 95%+ accuracy for diabetes risk assessment
+- Predictive model for diabetes risk assessment
 - Applications: Healthcare, medical diagnosis assistance, preventive medicine
 
 ### 🔍 [EDA - Exploratory Data Analysis](https://github.com/Dil8eep/EDA-Exploratory_Data_Analysis-)
@@ -90,6 +131,11 @@ I am a **passionate Data Science and Machine Learning Student** from India, dedi
 - Python programming and best practices
 - Machine Learning model building and evaluation
 - Deep Learning architectures (CNNs, RNNs, Transformers)
+- Generative AI application development
+- Agentic AI workflows, tool calling, and multi-agent orchestration
+- LangChain ecosystem, LangGraph-style workflows, and AI assistant architecture
+- Retrieval-Augmented Generation (RAG), embeddings, and vector search
+- Conversational AI, chatbots, voice agents, and Callingo-style AI calling workflows
 - Computer Vision and Image Processing
 - Real-time video analysis and object detection (YOLO, Faster R-CNN)
 - Semantic Segmentation (U-Net, SegNet, DeepLab)
@@ -131,7 +177,7 @@ I am a **passionate Data Science and Machine Learning Student** from India, dedi
 
 <div align="center">
 
-**I'm always open to discussing data science projects, collaborations, and opportunities!**
+**I'm always open to discussing data science projects, AI agents, RAG applications, collaborations, and opportunities!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dileep-kumar-3b6aa7256)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dileepkumarmarri5@gmail.com)
@@ -146,6 +192,6 @@ I am a **passionate Data Science and Machine Learning Student** from India, dedi
 
 ### ⭐ If you find my work interesting, consider giving it a star! ⭐
 
-*Last Updated: November 2025*
+*Last Updated: June 2026*
 
 </div>
