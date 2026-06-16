@@ -57,7 +57,14 @@ I am a **passionate Data Science, Machine Learning, and Generative AI Student** 
 ### **Tools & Platforms**
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+
+### **Databases & Caching**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
@@ -147,6 +154,8 @@ I am a **passionate Data Science, Machine Learning, and Generative AI Student** 
 - OpenAI APIs, prompt engineering, and LLM-powered application patterns
 - Retrieval-Augmented Generation (RAG), embeddings, and vector search
 - Conversational AI, chatbots, voice agents, and Callingo-style AI calling workflows
+- PostgreSQL, MySQL, Redis, and database-backed AI applications
+- Linux, Docker, and deployment-ready development workflows
 - Computer Vision and Image Processing
 - Real-time video analysis and object detection (YOLO, Faster R-CNN)
 - Semantic Segmentation (U-Net, SegNet, DeepLab)
