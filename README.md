@@ -42,6 +42,12 @@ I am a **passionate Data Science, Machine Learning, and Generative AI Student** 
 ### **Generative AI, RAG & Agentic Tools**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0B3D2E?style=flat&logo=graphql&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Document%20Agents-8A2BE2?style=flat)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google%20AI-Generative%20AI-34A853?style=flat&logo=google&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-AI%20Platform-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-LLM%20APIs-412991?style=flat&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A5ACD?style=flat)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-Embeddings%20%26%20Search-008080?style=flat)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-Tool%20Calling%20%26%20Workflows-FF6F61?style=flat)
@@ -65,9 +71,10 @@ I am a **passionate Data Science, Machine Learning, and Generative AI Student** 
 - Applications: Workflow automation, AI assistants, intelligent task routing, and agent collaboration
 
 ### 📚 [AdvanceRAG](https://github.com/Dil8eep/AdvanceRAG)
-**Retrieval-Augmented Generation | Embeddings | Vector Search | LLM Applications**
+**Retrieval-Augmented Generation | LlamaIndex | LangChain | Embeddings | Vector Search | LLM Applications**
 - Developed RAG pipelines for grounding LLM responses with external knowledge sources
 - Worked with document loading, chunking, embeddings, retrieval, and response generation workflows
+- Explored LangChain and LlamaIndex-style patterns for document indexing, retrieval, and knowledge assistants
 - Focused on improving answer relevance through context retrieval and structured prompting
 - Applications: Knowledge assistants, document Q&A, enterprise search, and AI research tools
 
@@ -134,6 +141,10 @@ I am a **passionate Data Science, Machine Learning, and Generative AI Student** 
 - Generative AI application development
 - Agentic AI workflows, tool calling, and multi-agent orchestration
 - LangChain ecosystem, LangGraph-style workflows, and AI assistant architecture
+- LlamaIndex, document indexing, retrieval pipelines, and knowledge assistant design
+- Google Gemini, Google AI tools, and cloud-based AI application workflows
+- Hugging Face models, transformers, embeddings, and open-source LLM tooling
+- OpenAI APIs, prompt engineering, and LLM-powered application patterns
 - Retrieval-Augmented Generation (RAG), embeddings, and vector search
 - Conversational AI, chatbots, voice agents, and Callingo-style AI calling workflows
 - Computer Vision and Image Processing
